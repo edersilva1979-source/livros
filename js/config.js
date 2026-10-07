@@ -1,7 +1,7 @@
 /* Edite os links de compra e os contatos neste arquivo. */
 window.SITE_CONFIG = {
-  "email": "",
-  "instagram": "",
+  "email": "eder.silva1979@gmail.com",
+  "instagram": "@escritoredersilvaoficial",
   "linkedin": "https://www.linkedin.com/in/eder-da-silva/",
   "github": "https://github.com/edersilva1979-source",
   "livros": [
